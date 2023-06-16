@@ -1,0 +1,22 @@
+{
+  "__version__": "1.0.1",
+  "builder": {
+    "common": {
+      "buildPath": "project://build",
+      "outputName": "web-desktop",
+      "mainBundleCompressionType": "merge_dep",
+      "platform": "web-desktop"
+    },
+    "taskOptionsMap": {
+      "1686714793109": {
+        "useWebGPU": false,
+        "resolution": {
+          "designWidth": 1280,
+          "designHeight": 960
+        },
+        "__version__": "1.0.1"
+      }
+    },
+    "__version__": "1.3.5"
+  }
+}
