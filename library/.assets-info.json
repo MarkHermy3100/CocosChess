@@ -1,0 +1,306 @@
+{
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scenes.meta": {
+    "time": 1686034983917.9092
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scenes": {
+    "time": 1686825530571.716,
+    "uuid": "64fddf41-ec51-4493-a58a-284046929248",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts.meta": {
+    "time": 1686037535787.7185
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts": {
+    "time": 1686885505427.781,
+    "uuid": "f2de20e4-e96f-45fd-8961-2238cad6ce12",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\PieceController.ts.meta": {
+    "time": 1686037557016.5376
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\PieceController.ts": {
+    "time": 1686889261024.3718,
+    "uuid": "aa354aaf-88b7-4825-8e9c-4915ad71e94f",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\PieceRules.ts.meta": {
+    "time": 1686131687828.7117
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\PieceRules.ts": {
+    "time": 1686797402627.2986,
+    "uuid": "2ac9c9fc-b8e3-4043-9dbb-e827ef90d624",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\BoardState.ts.meta": {
+    "time": 1686133562138.2124
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\BoardState.ts": {
+    "time": 1686899016732.116,
+    "uuid": "4fe3abbb-1720-4a36-bcb0-77581544ed4c",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources.meta": {
+    "time": 1686300165659.5354
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources": {
+    "time": 1686456251793.2227,
+    "uuid": "fb0ddd72-a2c4-4848-9e69-53c0c8666a44",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\TimerController.ts.meta": {
+    "time": 1686360951855.662
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\TimerController.ts": {
+    "time": 1686880074245.2275,
+    "uuid": "7211af2c-8d2e-4194-898a-d1f6e084420c",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art.meta": {
+    "time": 1686456251999.0286
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art": {
+    "time": 1686877116714.1614,
+    "uuid": "7477ef99-b2a5-42ad-8f08-a6897021df40",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\blackbishop.png.meta": {
+    "time": 1686300165973.4211
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\blackking.png.meta": {
+    "time": 1686300165961.0461
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\blackknight.png.meta": {
+    "time": 1686300165969.4133
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\blackpawn.png.meta": {
+    "time": 1686300165965.13
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\blackqueen.png.meta": {
+    "time": 1686300165977.9055
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\blackrook.png.meta": {
+    "time": 1686300166011.7278
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\chessboard.png.meta": {
+    "time": 1686300166011.7278
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\chessboardFlipped.png.meta": {
+    "time": 1686456252684.66
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\whitebishop.png.meta": {
+    "time": 1686300166024.2578
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\whiteking.png.meta": {
+    "time": 1686300166028.4502
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\whiteknight.png.meta": {
+    "time": 1686300166020.17
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\whitepawn.png.meta": {
+    "time": 1686300166053.733
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\whitequeen.png.meta": {
+    "time": 1686301078410.348
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\whiterook.png.meta": {
+    "time": 1686300166057.7827
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\blackking.png": {
+    "time": 1686041918117.2305,
+    "uuid": "62b8a709-06a3-42fe-96a7-006a9ce41eb4",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\blackpawn.png": {
+    "time": 1686041918182.8604,
+    "uuid": "6287bc76-9830-4ff7-adc3-ddd85200bd4e",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\blackbishop.png": {
+    "time": 1686041918083.1606,
+    "uuid": "df524e47-7d02-4836-8220-f70715c8545c",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\blackqueen.png": {
+    "time": 1686041918212.0723,
+    "uuid": "6f3edea7-18bb-464c-8d28-0e7be955acb8",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\blackknight.png": {
+    "time": 1686041918149.9893,
+    "uuid": "dd00786b-b3bf-4ac6-925d-84335b10f2aa",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\chessboard.png": {
+    "time": 1686036453161.5789,
+    "uuid": "2bda5c04-0af8-4307-bccd-72b6c78baf8e",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\chessboardFlipped.png": {
+    "time": 1686455880052.2375,
+    "uuid": "e426bb2d-b6a5-49bd-97fb-206810f6f826",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\blackrook.png": {
+    "time": 1686041918251.9626,
+    "uuid": "30a14925-8fbe-425c-a1ca-e9de812099a4",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\whiteking.png": {
+    "time": 1686041918311.474,
+    "uuid": "b60360d2-cccd-4615-a8f0-ccc79adb07d0",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\whitebishop.png": {
+    "time": 1686041918281.381,
+    "uuid": "eee0b6af-0a7e-4f2e-9b8e-c794558e5bd9",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\whitepawn.png": {
+    "time": 1686041918374.454,
+    "uuid": "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\whiteknight.png": {
+    "time": 1686041918346.1992,
+    "uuid": "c212bf39-f509-4678-92b1-f683b5e119d9",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\whitequeen.png": {
+    "time": 1686041918414.5688,
+    "uuid": "b89e0fd6-7faf-47e7-ac9b-3dfd00d4c2ff",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\whiterook.png": {
+    "time": 1686041918448.4023,
+    "uuid": "28336c24-bda9-41ff-9804-daaaf2375827",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\BoardSetup.ts.meta": {
+    "time": 1686458559847.9966
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\BoardSetup.ts": {
+    "time": 1686891335546.806,
+    "uuid": "1c86f0ed-d809-4ff1-9490-f38cf2bdcfd5",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\blackPromoting.png.meta": {
+    "time": 1686491579952.6367
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\whitePromoting.png.meta": {
+    "time": 1686491579964.9375
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\blackPromoting.png": {
+    "time": 1686314632514.5786,
+    "uuid": "71964ef6-3d4a-4290-80d7-67e93c4ee632",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\whitePromoting.png": {
+    "time": 1686314496015.0957,
+    "uuid": "e1fa1df0-0173-4afb-a961-969c51539a8a",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\PawnPromotion.ts.meta": {
+    "time": 1686492594271.836
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\PawnPromotion.ts": {
+    "time": 1686843730187.0208,
+    "uuid": "47e55492-a2c0-4ff0-aecd-6094a67cd8b3",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\BoardOrientation.ts.meta": {
+    "time": 1686638513434.6782
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\BoardOrientation.ts": {
+    "time": 1686887682014.4111,
+    "uuid": "fed0207a-0abc-4f85-b2ff-af946dd8c159",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\TimerOrientation.ts.meta": {
+    "time": 1686638773118.5276
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\TimerOrientation.ts": {
+    "time": 1686800509966.906,
+    "uuid": "7c2e6538-84c8-4849-a63c-d91537cac772",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\GameOver.ts.meta": {
+    "time": 1686647146030.3875
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\GameOver.ts": {
+    "time": 1686889384860.4802,
+    "uuid": "2d2b1881-17fc-4e77-9625-3ecce68b125c",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\Bot.ts.meta": {
+    "time": 1686801995850.161
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\Bot.ts": {
+    "time": 1686890542096.1746,
+    "uuid": "759a7b55-e3de-4152-b2f7-5a1d6a9dc306",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scenes\\PvP.scene.meta": {
+    "time": 1686034891430.3296
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scenes\\PvP.scene": {
+    "time": 1686898159262.0554,
+    "uuid": "1ca358c6-63df-4af6-ae1b-c9ec02176800",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scenes\\Menu.scene.meta": {
+    "time": 1686819161719.862
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scenes\\Menu.scene": {
+    "time": 1686898056833.7305,
+    "uuid": "6e00f5a7-ead0-4b12-9e82-39cc8aacc61a",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scenes\\Color.scene.meta": {
+    "time": 1686819782694.2808
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scenes\\Color.scene": {
+    "time": 1686898108671.5925,
+    "uuid": "19e1c92a-854a-4877-a6cc-cd33a174eb52",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\BotPieceController.ts.meta": {
+    "time": 1686821071866.5193
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\BotPieceController.ts": {
+    "time": 1686891431265.7002,
+    "uuid": "638d94ef-715c-440e-9608-56a4625a65dd",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scenes\\PvWB.scene.meta": {
+    "time": 1686802755653.6174
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scenes\\PvWB.scene": {
+    "time": 1686898149441.2102,
+    "uuid": "2baeaced-7705-46e2-907f-944cf05853d7",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scenes\\PvBB.scene.meta": {
+    "time": 1686825510439.4858
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scenes\\PvBB.scene": {
+    "time": 1686898134492.096,
+    "uuid": "346e93b1-ee37-41fa-88e2-5a86b72f86dd",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\background.png.meta": {
+    "time": 1686877204704.9072
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\resources\\art\\background.png": {
+    "time": 1686877189219.6326,
+    "uuid": "88785b63-c1f0-44d2-935f-9c6096e00f7a",
+    "missing": false
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\ChangeScreen.ts.meta": {
+    "time": 1686885415452.82
+  },
+  "D:\\Programming Projects\\Cocos\\Chess\\assets\\scripts\\ChangeScreen.ts": {
+    "time": 1686887661519.2642,
+    "uuid": "080ab6eb-f628-4e07-8fc3-3d53cdddd072",
+    "missing": false
+  }
+}
