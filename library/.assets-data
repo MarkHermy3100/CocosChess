@@ -1,0 +1,1774 @@
+{
+  "1ca358c6-63df-4af6-ae1b-c9ec02176800": {
+    "url": "db://assets/scenes/PvP.scene",
+    "value": {
+      "depends": [
+        "1ca358c6-63df-4af6-ae1b-c9ec02176800",
+        "2bda5c04-0af8-4307-bccd-72b6c78baf8e@f9941",
+        "28336c24-bda9-41ff-9804-daaaf2375827@f9941",
+        "c212bf39-f509-4678-92b1-f683b5e119d9@f9941",
+        "eee0b6af-0a7e-4f2e-9b8e-c794558e5bd9@f9941",
+        "b89e0fd6-7faf-47e7-ac9b-3dfd00d4c2ff@f9941",
+        "b60360d2-cccd-4615-a8f0-ccc79adb07d0@f9941",
+        "eee0b6af-0a7e-4f2e-9b8e-c794558e5bd9@f9941",
+        "c212bf39-f509-4678-92b1-f683b5e119d9@f9941",
+        "28336c24-bda9-41ff-9804-daaaf2375827@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "30a14925-8fbe-425c-a1ca-e9de812099a4@f9941",
+        "dd00786b-b3bf-4ac6-925d-84335b10f2aa@f9941",
+        "df524e47-7d02-4836-8220-f70715c8545c@f9941",
+        "6f3edea7-18bb-464c-8d28-0e7be955acb8@f9941",
+        "62b8a709-06a3-42fe-96a7-006a9ce41eb4@f9941",
+        "df524e47-7d02-4836-8220-f70715c8545c@f9941",
+        "dd00786b-b3bf-4ac6-925d-84335b10f2aa@f9941",
+        "30a14925-8fbe-425c-a1ca-e9de812099a4@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "e1fa1df0-0173-4afb-a961-969c51539a8a@f9941",
+        "71964ef6-3d4a-4290-80d7-67e93c4ee632@f9941"
+      ]
+    }
+  },
+  "64fddf41-ec51-4493-a58a-284046929248": {
+    "url": "db://assets/scenes",
+    "value": {}
+  },
+  "15d059c5-2f46-4225-9890-8fd00f720107": {
+    "url": "db://assets/art",
+    "value": {}
+  },
+  "303ec1d9-1e31-4a07-b6be-36a0128f02c9": {
+    "url": "db://assets/art/blackbishop.png",
+    "value": {}
+  },
+  "32a200c9-f7e2-476e-8ed1-3bccd74401f3": {
+    "url": "db://assets/art/blackking.png",
+    "value": {}
+  },
+  "137b4ec9-6df8-4308-8ac0-1819902efc37": {
+    "url": "db://assets/art/blackknight.png",
+    "value": {}
+  },
+  "5c96e7de-b909-4c1e-a494-27d50761b901": {
+    "url": "db://assets/art/blackpawn.png",
+    "value": {}
+  },
+  "70d848e6-eba0-4da9-bd36-24106f2692b3": {
+    "url": "db://assets/art/blackqueen.png",
+    "value": {}
+  },
+  "303ec1d9-1e31-4a07-b6be-36a0128f02c9@6c48a": {
+    "url": "db://assets/art/blackbishop.png@6c48a",
+    "value": {
+      "depends": [
+        "303ec1d9-1e31-4a07-b6be-36a0128f02c9"
+      ]
+    }
+  },
+  "5c96e7de-b909-4c1e-a494-27d50761b901@6c48a": {
+    "url": "db://assets/art/blackpawn.png@6c48a",
+    "value": {
+      "depends": [
+        "5c96e7de-b909-4c1e-a494-27d50761b901"
+      ]
+    }
+  },
+  "32a200c9-f7e2-476e-8ed1-3bccd74401f3@6c48a": {
+    "url": "db://assets/art/blackking.png@6c48a",
+    "value": {
+      "depends": [
+        "32a200c9-f7e2-476e-8ed1-3bccd74401f3"
+      ]
+    }
+  },
+  "137b4ec9-6df8-4308-8ac0-1819902efc37@6c48a": {
+    "url": "db://assets/art/blackknight.png@6c48a",
+    "value": {
+      "depends": [
+        "137b4ec9-6df8-4308-8ac0-1819902efc37"
+      ]
+    }
+  },
+  "70d848e6-eba0-4da9-bd36-24106f2692b3@6c48a": {
+    "url": "db://assets/art/blackqueen.png@6c48a",
+    "value": {
+      "depends": [
+        "70d848e6-eba0-4da9-bd36-24106f2692b3"
+      ]
+    }
+  },
+  "5c96e7de-b909-4c1e-a494-27d50761b901@f9941": {
+    "url": "db://assets/art/blackpawn.png@f9941",
+    "value": {
+      "depends": [
+        "5c96e7de-b909-4c1e-a494-27d50761b901@6c48a"
+      ]
+    }
+  },
+  "8edd2178-1e4a-4117-bc1c-dc608a7722d3": {
+    "url": "db://assets/art/blackrook.png",
+    "value": {}
+  },
+  "137b4ec9-6df8-4308-8ac0-1819902efc37@f9941": {
+    "url": "db://assets/art/blackknight.png@f9941",
+    "value": {
+      "depends": [
+        "137b4ec9-6df8-4308-8ac0-1819902efc37@6c48a"
+      ]
+    }
+  },
+  "28c03d4a-7791-42c8-8700-4ad70b3664f8": {
+    "url": "db://assets/art/whitebishop.png",
+    "value": {}
+  },
+  "32a200c9-f7e2-476e-8ed1-3bccd74401f3@f9941": {
+    "url": "db://assets/art/blackking.png@f9941",
+    "value": {
+      "depends": [
+        "32a200c9-f7e2-476e-8ed1-3bccd74401f3@6c48a"
+      ]
+    }
+  },
+  "0171b79d-6321-49af-bc13-72bebd101a47": {
+    "url": "db://assets/art/whiteking.png",
+    "value": {}
+  },
+  "303ec1d9-1e31-4a07-b6be-36a0128f02c9@f9941": {
+    "url": "db://assets/art/blackbishop.png@f9941",
+    "value": {
+      "depends": [
+        "303ec1d9-1e31-4a07-b6be-36a0128f02c9@6c48a"
+      ]
+    }
+  },
+  "a7dc34d2-7849-40f4-96a0-00c748b813bd": {
+    "url": "db://assets/art/whiteknight.png",
+    "value": {}
+  },
+  "70d848e6-eba0-4da9-bd36-24106f2692b3@f9941": {
+    "url": "db://assets/art/blackqueen.png@f9941",
+    "value": {
+      "depends": [
+        "70d848e6-eba0-4da9-bd36-24106f2692b3@6c48a"
+      ]
+    }
+  },
+  "9c3e1334-3b9b-40bf-bd75-519959f61987": {
+    "url": "db://assets/art/whitepawn.png",
+    "value": {}
+  },
+  "8edd2178-1e4a-4117-bc1c-dc608a7722d3@6c48a": {
+    "url": "db://assets/art/blackrook.png@6c48a",
+    "value": {
+      "depends": [
+        "8edd2178-1e4a-4117-bc1c-dc608a7722d3"
+      ]
+    }
+  },
+  "a7dc34d2-7849-40f4-96a0-00c748b813bd@6c48a": {
+    "url": "db://assets/art/whiteknight.png@6c48a",
+    "value": {
+      "depends": [
+        "a7dc34d2-7849-40f4-96a0-00c748b813bd"
+      ]
+    }
+  },
+  "0171b79d-6321-49af-bc13-72bebd101a47@6c48a": {
+    "url": "db://assets/art/whiteking.png@6c48a",
+    "value": {
+      "depends": [
+        "0171b79d-6321-49af-bc13-72bebd101a47"
+      ]
+    }
+  },
+  "28c03d4a-7791-42c8-8700-4ad70b3664f8@6c48a": {
+    "url": "db://assets/art/whitebishop.png@6c48a",
+    "value": {
+      "depends": [
+        "28c03d4a-7791-42c8-8700-4ad70b3664f8"
+      ]
+    }
+  },
+  "8edd2178-1e4a-4117-bc1c-dc608a7722d3@f9941": {
+    "url": "db://assets/art/blackrook.png@f9941",
+    "value": {
+      "depends": [
+        "8edd2178-1e4a-4117-bc1c-dc608a7722d3@6c48a"
+      ]
+    }
+  },
+  "7cf5b819-067c-48aa-b0cd-bce79cb9e299": {
+    "url": "db://assets/art/whitequeen.png",
+    "value": {}
+  },
+  "0171b79d-6321-49af-bc13-72bebd101a47@f9941": {
+    "url": "db://assets/art/whiteking.png@f9941",
+    "value": {
+      "depends": [
+        "0171b79d-6321-49af-bc13-72bebd101a47@6c48a"
+      ]
+    }
+  },
+  "a7dc34d2-7849-40f4-96a0-00c748b813bd@f9941": {
+    "url": "db://assets/art/whiteknight.png@f9941",
+    "value": {
+      "depends": [
+        "a7dc34d2-7849-40f4-96a0-00c748b813bd@6c48a"
+      ]
+    }
+  },
+  "8e1b87a4-2258-4936-a0fa-635feab395ab": {
+    "url": "db://assets/art/whiterook.png",
+    "value": {}
+  },
+  "9c3e1334-3b9b-40bf-bd75-519959f61987@6c48a": {
+    "url": "db://assets/art/whitepawn.png@6c48a",
+    "value": {
+      "depends": [
+        "9c3e1334-3b9b-40bf-bd75-519959f61987"
+      ]
+    }
+  },
+  "28c03d4a-7791-42c8-8700-4ad70b3664f8@f9941": {
+    "url": "db://assets/art/whitebishop.png@f9941",
+    "value": {
+      "depends": [
+        "28c03d4a-7791-42c8-8700-4ad70b3664f8@6c48a"
+      ]
+    }
+  },
+  "7cf5b819-067c-48aa-b0cd-bce79cb9e299@6c48a": {
+    "url": "db://assets/art/whitequeen.png@6c48a",
+    "value": {
+      "depends": [
+        "7cf5b819-067c-48aa-b0cd-bce79cb9e299"
+      ]
+    }
+  },
+  "9c3e1334-3b9b-40bf-bd75-519959f61987@f9941": {
+    "url": "db://assets/art/whitepawn.png@f9941",
+    "value": {
+      "depends": [
+        "9c3e1334-3b9b-40bf-bd75-519959f61987@6c48a"
+      ]
+    }
+  },
+  "8e1b87a4-2258-4936-a0fa-635feab395ab@6c48a": {
+    "url": "db://assets/art/whiterook.png@6c48a",
+    "value": {
+      "depends": [
+        "8e1b87a4-2258-4936-a0fa-635feab395ab"
+      ]
+    }
+  },
+  "7cf5b819-067c-48aa-b0cd-bce79cb9e299@f9941": {
+    "url": "db://assets/art/whitequeen.png@f9941",
+    "value": {
+      "depends": [
+        "7cf5b819-067c-48aa-b0cd-bce79cb9e299@6c48a"
+      ]
+    }
+  },
+  "8e1b87a4-2258-4936-a0fa-635feab395ab@f9941": {
+    "url": "db://assets/art/whiterook.png@f9941",
+    "value": {
+      "depends": [
+        "8e1b87a4-2258-4936-a0fa-635feab395ab@6c48a"
+      ]
+    }
+  },
+  "51dfed07-6c9f-450a-9cff-65b21cc3d1b1": {
+    "url": "db://assets/art/chessboard.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "51dfed07-6c9f-450a-9cff-65b21cc3d1b1@6c48a": {
+    "url": "db://assets/art/chessboard.png@6c48a",
+    "value": {
+      "depends": [
+        "51dfed07-6c9f-450a-9cff-65b21cc3d1b1"
+      ]
+    }
+  },
+  "51dfed07-6c9f-450a-9cff-65b21cc3d1b1@f9941": {
+    "url": "db://assets/art/chessboard.png@f9941",
+    "value": {
+      "depends": [
+        "51dfed07-6c9f-450a-9cff-65b21cc3d1b1@6c48a"
+      ]
+    }
+  },
+  "45756d6e-ae3c-45e3-ab7b-5e10bfd4c72b": {
+    "url": "db://assets/art/chessboard.png",
+    "value": {}
+  },
+  "45756d6e-ae3c-45e3-ab7b-5e10bfd4c72b@6c48a": {
+    "url": "db://assets/art/chessboard.png@6c48a",
+    "value": {
+      "depends": [
+        "45756d6e-ae3c-45e3-ab7b-5e10bfd4c72b"
+      ]
+    }
+  },
+  "45756d6e-ae3c-45e3-ab7b-5e10bfd4c72b@f9941": {
+    "url": "db://assets/art/chessboard.png@f9941",
+    "value": {
+      "depends": [
+        "45756d6e-ae3c-45e3-ab7b-5e10bfd4c72b@6c48a"
+      ]
+    }
+  },
+  "f2de20e4-e96f-45fd-8961-2238cad6ce12": {
+    "url": "db://assets/scripts",
+    "value": {}
+  },
+  "aa354aaf-88b7-4825-8e9c-4915ad71e94f": {
+    "url": "db://assets/scripts/PieceController.ts",
+    "value": {}
+  },
+  "f5622ff0-64ee-48c3-ba72-c05c2b233cea": {
+    "url": "db://assets/scripts/WhiteKing.ts",
+    "value": {}
+  },
+  "376cc547-6a6f-4edf-bbbd-b6760b8a7b5e": {
+    "url": "db://assets/scripts/WhiteKing.ts",
+    "value": {}
+  },
+  "79eba1f3-5d8e-4c7a-858b-b0ba53a09c02": {
+    "url": "db://assets/scripts/BoardState.ts",
+    "value": {}
+  },
+  "3ec9660d-e270-40d3-8c8c-c08bf8f5bd94": {
+    "url": "db://assets/scripts/test.ts",
+    "value": {}
+  },
+  "2715306d-1e67-4c72-a27a-562b4d4b4676": {
+    "url": "db://assets/scripts/BoardState.ts",
+    "value": {}
+  },
+  "2ac9c9fc-b8e3-4043-9dbb-e827ef90d624": {
+    "url": "db://assets/scripts/PieceRules.ts",
+    "value": {}
+  },
+  "f4dad8f2-f1f3-4172-9b1f-d9071c20f65f": {
+    "url": "db://assets/scripts/BoardState2.ts",
+    "value": {}
+  },
+  "862a2392-e532-4bb9-8af3-c6a705c30f7d": {
+    "url": "db://assets/scripts/test.ts",
+    "value": {}
+  },
+  "4fe3abbb-1720-4a36-bcb0-77581544ed4c": {
+    "url": "db://assets/scripts/BoardState.ts",
+    "value": {}
+  },
+  "408b8700-c7e0-44e9-9230-bcd814e93fe5": {
+    "url": "db://assets/scripts/test.ts",
+    "value": {}
+  },
+  "381ed1ae-e02d-4a25-b87a-57bf3abc9787": {
+    "url": "db://assets/scripts/test.ts",
+    "value": {}
+  },
+  "20215abc-b9c6-4bcb-a5cb-b440b639d2cb": {
+    "url": "db://assets/scripts/test.ts",
+    "value": {}
+  },
+  "5badb154-e44d-43be-a81f-830ff31d261d": {
+    "url": "db://assets/scripts/test.ts",
+    "value": {}
+  },
+  "e2c19775-2e0f-4747-a95b-5a360835567d": {
+    "url": "db://assets/scripts/test.ts",
+    "value": {}
+  },
+  "da9f4836-9826-4848-8534-cbfb99c6723e": {
+    "url": "db://assets/scripts/test.ts",
+    "value": {}
+  },
+  "a98e7fb8-2064-4864-b1c5-5f32de557464": {
+    "url": "db://assets/scenes/main-001.scene",
+    "value": {}
+  },
+  "0cb2770c-4deb-4fb4-b0dd-c38a7bcbc3eb": {
+    "url": "db://assets/scripts/test.ts",
+    "value": {}
+  },
+  "6906bc23-0319-4fa8-a131-54e875802292": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "cfa287b5-b704-434f-a108-ffc8c32c9831": {
+    "url": "db://assets/resources/test_art",
+    "value": {}
+  },
+  "cdb714d0-beb1-4aae-87fc-fde94b0703f5": {
+    "url": "db://assets/art/blackbishop.png",
+    "value": {}
+  },
+  "62f29653-9f15-4b65-b20d-ff382edf6784": {
+    "url": "db://assets/art/blackking.png",
+    "value": {}
+  },
+  "dfffa6aa-711e-41e5-a242-d01e113729d0": {
+    "url": "db://assets/art/blackknight.png",
+    "value": {}
+  },
+  "7f273ccf-64be-4d11-b830-63f3df8f3b90": {
+    "url": "db://assets/art/blackpawn.png",
+    "value": {}
+  },
+  "de86c69d-a20e-4450-98c4-788abf6c99c4": {
+    "url": "db://assets/art/blackqueen.png",
+    "value": {}
+  },
+  "62f29653-9f15-4b65-b20d-ff382edf6784@6c48a": {
+    "url": "db://assets/art/blackking.png@6c48a",
+    "value": {
+      "depends": [
+        "62f29653-9f15-4b65-b20d-ff382edf6784"
+      ]
+    }
+  },
+  "cdb714d0-beb1-4aae-87fc-fde94b0703f5@6c48a": {
+    "url": "db://assets/art/blackbishop.png@6c48a",
+    "value": {
+      "depends": [
+        "cdb714d0-beb1-4aae-87fc-fde94b0703f5"
+      ]
+    }
+  },
+  "de86c69d-a20e-4450-98c4-788abf6c99c4@6c48a": {
+    "url": "db://assets/art/blackqueen.png@6c48a",
+    "value": {
+      "depends": [
+        "de86c69d-a20e-4450-98c4-788abf6c99c4"
+      ]
+    }
+  },
+  "dfffa6aa-711e-41e5-a242-d01e113729d0@6c48a": {
+    "url": "db://assets/art/blackknight.png@6c48a",
+    "value": {
+      "depends": [
+        "dfffa6aa-711e-41e5-a242-d01e113729d0"
+      ]
+    }
+  },
+  "62f29653-9f15-4b65-b20d-ff382edf6784@f9941": {
+    "url": "db://assets/art/blackking.png@f9941",
+    "value": {
+      "depends": [
+        "62f29653-9f15-4b65-b20d-ff382edf6784@6c48a"
+      ]
+    }
+  },
+  "1618ad63-3017-4583-b197-810aa763c4e0": {
+    "url": "db://assets/art/blackrook.png",
+    "value": {}
+  },
+  "de86c69d-a20e-4450-98c4-788abf6c99c4@f9941": {
+    "url": "db://assets/art/blackqueen.png@f9941",
+    "value": {
+      "depends": [
+        "de86c69d-a20e-4450-98c4-788abf6c99c4@6c48a"
+      ]
+    }
+  },
+  "7f273ccf-64be-4d11-b830-63f3df8f3b90@6c48a": {
+    "url": "db://assets/art/blackpawn.png@6c48a",
+    "value": {
+      "depends": [
+        "7f273ccf-64be-4d11-b830-63f3df8f3b90"
+      ]
+    }
+  },
+  "35b7ef47-093a-46d1-89c9-2cebcc161fed": {
+    "url": "db://assets/art/chessboard.png",
+    "value": {}
+  },
+  "cdb714d0-beb1-4aae-87fc-fde94b0703f5@f9941": {
+    "url": "db://assets/art/blackbishop.png@f9941",
+    "value": {
+      "depends": [
+        "cdb714d0-beb1-4aae-87fc-fde94b0703f5@6c48a"
+      ]
+    }
+  },
+  "b39af8e7-dd82-4e55-bae5-ddd1daf18044": {
+    "url": "db://assets/art/whitebishop.png",
+    "value": {}
+  },
+  "dfffa6aa-711e-41e5-a242-d01e113729d0@f9941": {
+    "url": "db://assets/art/blackknight.png@f9941",
+    "value": {
+      "depends": [
+        "dfffa6aa-711e-41e5-a242-d01e113729d0@6c48a"
+      ]
+    }
+  },
+  "03e40d62-8577-41f7-8ccc-69e863695bd9": {
+    "url": "db://assets/art/whiteking.png",
+    "value": {}
+  },
+  "7f273ccf-64be-4d11-b830-63f3df8f3b90@f9941": {
+    "url": "db://assets/art/blackpawn.png@f9941",
+    "value": {
+      "depends": [
+        "7f273ccf-64be-4d11-b830-63f3df8f3b90@6c48a"
+      ]
+    }
+  },
+  "46d70297-9c07-4ae1-9998-e13f74614a24": {
+    "url": "db://assets/art/whiteknight.png",
+    "value": {}
+  },
+  "35b7ef47-093a-46d1-89c9-2cebcc161fed@6c48a": {
+    "url": "db://assets/art/chessboard.png@6c48a",
+    "value": {
+      "depends": [
+        "35b7ef47-093a-46d1-89c9-2cebcc161fed"
+      ]
+    }
+  },
+  "35b7ef47-093a-46d1-89c9-2cebcc161fed@f9941": {
+    "url": "db://assets/art/chessboard.png@f9941",
+    "value": {
+      "depends": [
+        "35b7ef47-093a-46d1-89c9-2cebcc161fed@6c48a"
+      ]
+    }
+  },
+  "00f65949-d110-44ad-8b79-555147952a30": {
+    "url": "db://assets/art/whitepawn.png",
+    "value": {}
+  },
+  "1618ad63-3017-4583-b197-810aa763c4e0@6c48a": {
+    "url": "db://assets/art/blackrook.png@6c48a",
+    "value": {
+      "depends": [
+        "1618ad63-3017-4583-b197-810aa763c4e0"
+      ]
+    }
+  },
+  "03e40d62-8577-41f7-8ccc-69e863695bd9@6c48a": {
+    "url": "db://assets/art/whiteking.png@6c48a",
+    "value": {
+      "depends": [
+        "03e40d62-8577-41f7-8ccc-69e863695bd9"
+      ]
+    }
+  },
+  "1618ad63-3017-4583-b197-810aa763c4e0@f9941": {
+    "url": "db://assets/art/blackrook.png@f9941",
+    "value": {
+      "depends": [
+        "1618ad63-3017-4583-b197-810aa763c4e0@6c48a"
+      ]
+    }
+  },
+  "03e40d62-8577-41f7-8ccc-69e863695bd9@f9941": {
+    "url": "db://assets/art/whiteking.png@f9941",
+    "value": {
+      "depends": [
+        "03e40d62-8577-41f7-8ccc-69e863695bd9@6c48a"
+      ]
+    }
+  },
+  "da1c39ce-6e48-4df6-bc70-c030c23f28dd": {
+    "url": "db://assets/art/whitequeen.png",
+    "value": {}
+  },
+  "058b7055-729f-416d-b8ed-3fea4a3cf544": {
+    "url": "db://assets/art/whiterook.png",
+    "value": {}
+  },
+  "b39af8e7-dd82-4e55-bae5-ddd1daf18044@6c48a": {
+    "url": "db://assets/art/whitebishop.png@6c48a",
+    "value": {
+      "depends": [
+        "b39af8e7-dd82-4e55-bae5-ddd1daf18044"
+      ]
+    }
+  },
+  "46d70297-9c07-4ae1-9998-e13f74614a24@6c48a": {
+    "url": "db://assets/art/whiteknight.png@6c48a",
+    "value": {
+      "depends": [
+        "46d70297-9c07-4ae1-9998-e13f74614a24"
+      ]
+    }
+  },
+  "b39af8e7-dd82-4e55-bae5-ddd1daf18044@f9941": {
+    "url": "db://assets/art/whitebishop.png@f9941",
+    "value": {
+      "depends": [
+        "b39af8e7-dd82-4e55-bae5-ddd1daf18044@6c48a"
+      ]
+    }
+  },
+  "46d70297-9c07-4ae1-9998-e13f74614a24@f9941": {
+    "url": "db://assets/art/whiteknight.png@f9941",
+    "value": {
+      "depends": [
+        "46d70297-9c07-4ae1-9998-e13f74614a24@6c48a"
+      ]
+    }
+  },
+  "00f65949-d110-44ad-8b79-555147952a30@6c48a": {
+    "url": "db://assets/art/whitepawn.png@6c48a",
+    "value": {
+      "depends": [
+        "00f65949-d110-44ad-8b79-555147952a30"
+      ]
+    }
+  },
+  "da1c39ce-6e48-4df6-bc70-c030c23f28dd@6c48a": {
+    "url": "db://assets/art/whitequeen.png@6c48a",
+    "value": {
+      "depends": [
+        "da1c39ce-6e48-4df6-bc70-c030c23f28dd"
+      ]
+    }
+  },
+  "058b7055-729f-416d-b8ed-3fea4a3cf544@6c48a": {
+    "url": "db://assets/art/whiterook.png@6c48a",
+    "value": {
+      "depends": [
+        "058b7055-729f-416d-b8ed-3fea4a3cf544"
+      ]
+    }
+  },
+  "00f65949-d110-44ad-8b79-555147952a30@f9941": {
+    "url": "db://assets/art/whitepawn.png@f9941",
+    "value": {
+      "depends": [
+        "00f65949-d110-44ad-8b79-555147952a30@6c48a"
+      ]
+    }
+  },
+  "da1c39ce-6e48-4df6-bc70-c030c23f28dd@f9941": {
+    "url": "db://assets/art/whitequeen.png@f9941",
+    "value": {
+      "depends": [
+        "da1c39ce-6e48-4df6-bc70-c030c23f28dd@6c48a"
+      ]
+    }
+  },
+  "058b7055-729f-416d-b8ed-3fea4a3cf544@f9941": {
+    "url": "db://assets/art/whiterook.png@f9941",
+    "value": {
+      "depends": [
+        "058b7055-729f-416d-b8ed-3fea4a3cf544@6c48a"
+      ]
+    }
+  },
+  "fb86fd4f-616e-45a3-8d79-8dcb2e81bc21": {
+    "url": "db://assets/resources/test_assets",
+    "value": {}
+  },
+  "b9db28c5-6ff1-40ea-a7bf-e8dbb3a6c3aa": {
+    "url": "db://assets/resources/test_assets/art",
+    "value": {}
+  },
+  "5f7ac6d7-ee84-432c-9596-0d61352c57f0": {
+    "url": "db://assets/resources/art",
+    "value": {}
+  },
+  "49407361-0411-4149-9d20-10eb090e96a4": {
+    "url": "db://assets/resources/test_art",
+    "value": {}
+  },
+  "71679dfa-b722-4c5e-8898-bcdc28af1019": {
+    "url": "db://assets/resources/test_art/whitequeen.png",
+    "value": {}
+  },
+  "71679dfa-b722-4c5e-8898-bcdc28af1019@6c48a": {
+    "url": "db://assets/resources/test_art/whitequeen.png@6c48a",
+    "value": {
+      "depends": [
+        "71679dfa-b722-4c5e-8898-bcdc28af1019"
+      ]
+    }
+  },
+  "71679dfa-b722-4c5e-8898-bcdc28af1019@f9941": {
+    "url": "db://assets/resources/test_art/whitequeen.png@f9941",
+    "value": {
+      "depends": [
+        "71679dfa-b722-4c5e-8898-bcdc28af1019@6c48a"
+      ]
+    }
+  },
+  "eb981920-c9bd-4b50-ab38-b5f9657413e4": {
+    "url": "db://assets/art",
+    "value": {}
+  },
+  "9d688ab7-1c93-43b3-85eb-1c58bb95e603": {
+    "url": "db://assets/art/blackbishop.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5b6878ff-4257-4597-80ba-577265e6671a": {
+    "url": "db://assets/art/blackking.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "c0bdac63-e395-429f-b753-58411f3825da": {
+    "url": "db://assets/art/blackknight.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6b38d20e-e3c7-4c17-be85-5f36fe58ad37": {
+    "url": "db://assets/art/blackpawn.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "363ba625-ac32-409b-99c5-6a4d5f3ee691": {
+    "url": "db://assets/art/blackqueen.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "9d688ab7-1c93-43b3-85eb-1c58bb95e603@6c48a": {
+    "url": "db://assets/art/blackbishop.png@6c48a",
+    "value": {
+      "depends": [
+        "9d688ab7-1c93-43b3-85eb-1c58bb95e603"
+      ]
+    }
+  },
+  "363ba625-ac32-409b-99c5-6a4d5f3ee691@6c48a": {
+    "url": "db://assets/art/blackqueen.png@6c48a",
+    "value": {
+      "depends": [
+        "363ba625-ac32-409b-99c5-6a4d5f3ee691"
+      ]
+    }
+  },
+  "c0bdac63-e395-429f-b753-58411f3825da@6c48a": {
+    "url": "db://assets/art/blackknight.png@6c48a",
+    "value": {
+      "depends": [
+        "c0bdac63-e395-429f-b753-58411f3825da"
+      ]
+    }
+  },
+  "6b38d20e-e3c7-4c17-be85-5f36fe58ad37@6c48a": {
+    "url": "db://assets/art/blackpawn.png@6c48a",
+    "value": {
+      "depends": [
+        "6b38d20e-e3c7-4c17-be85-5f36fe58ad37"
+      ]
+    }
+  },
+  "5b6878ff-4257-4597-80ba-577265e6671a@6c48a": {
+    "url": "db://assets/art/blackking.png@6c48a",
+    "value": {
+      "depends": [
+        "5b6878ff-4257-4597-80ba-577265e6671a"
+      ]
+    }
+  },
+  "9d688ab7-1c93-43b3-85eb-1c58bb95e603@f9941": {
+    "url": "db://assets/art/blackbishop.png@f9941",
+    "value": {
+      "depends": [
+        "9d688ab7-1c93-43b3-85eb-1c58bb95e603@6c48a"
+      ]
+    }
+  },
+  "d8d44066-cc7f-4680-9d43-bf35eb3341c7": {
+    "url": "db://assets/art/blackrook.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "363ba625-ac32-409b-99c5-6a4d5f3ee691@f9941": {
+    "url": "db://assets/art/blackqueen.png@f9941",
+    "value": {
+      "depends": [
+        "363ba625-ac32-409b-99c5-6a4d5f3ee691@6c48a"
+      ]
+    }
+  },
+  "8768f89b-1670-481a-8ff0-8aed4b007d9c": {
+    "url": "db://assets/art/chessboard.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "c0bdac63-e395-429f-b753-58411f3825da@f9941": {
+    "url": "db://assets/art/blackknight.png@f9941",
+    "value": {
+      "depends": [
+        "c0bdac63-e395-429f-b753-58411f3825da@6c48a"
+      ]
+    }
+  },
+  "a4843373-5095-4fd4-80a9-53c2386704ed": {
+    "url": "db://assets/art/whitebishop.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6b38d20e-e3c7-4c17-be85-5f36fe58ad37@f9941": {
+    "url": "db://assets/art/blackpawn.png@f9941",
+    "value": {
+      "depends": [
+        "6b38d20e-e3c7-4c17-be85-5f36fe58ad37@6c48a"
+      ]
+    }
+  },
+  "75d96564-150c-4139-abb1-92a72f436844": {
+    "url": "db://assets/art/whiteking.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8768f89b-1670-481a-8ff0-8aed4b007d9c@6c48a": {
+    "url": "db://assets/art/chessboard.png@6c48a",
+    "value": {
+      "depends": [
+        "8768f89b-1670-481a-8ff0-8aed4b007d9c"
+      ]
+    }
+  },
+  "5b6878ff-4257-4597-80ba-577265e6671a@f9941": {
+    "url": "db://assets/art/blackking.png@f9941",
+    "value": {
+      "depends": [
+        "5b6878ff-4257-4597-80ba-577265e6671a@6c48a"
+      ]
+    }
+  },
+  "87f0ba52-0502-4eaf-aa07-e0d69e8e7f11": {
+    "url": "db://assets/art/whiteknight.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d8d44066-cc7f-4680-9d43-bf35eb3341c7@6c48a": {
+    "url": "db://assets/art/blackrook.png@6c48a",
+    "value": {
+      "depends": [
+        "d8d44066-cc7f-4680-9d43-bf35eb3341c7"
+      ]
+    }
+  },
+  "8768f89b-1670-481a-8ff0-8aed4b007d9c@f9941": {
+    "url": "db://assets/art/chessboard.png@f9941",
+    "value": {
+      "depends": [
+        "8768f89b-1670-481a-8ff0-8aed4b007d9c@6c48a"
+      ]
+    }
+  },
+  "9bf75124-bd2a-4487-9199-f7e5ebe0b782": {
+    "url": "db://assets/art/whitepawn.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "a4843373-5095-4fd4-80a9-53c2386704ed@6c48a": {
+    "url": "db://assets/art/whitebishop.png@6c48a",
+    "value": {
+      "depends": [
+        "a4843373-5095-4fd4-80a9-53c2386704ed"
+      ]
+    }
+  },
+  "75d96564-150c-4139-abb1-92a72f436844@6c48a": {
+    "url": "db://assets/art/whiteking.png@6c48a",
+    "value": {
+      "depends": [
+        "75d96564-150c-4139-abb1-92a72f436844"
+      ]
+    }
+  },
+  "d8d44066-cc7f-4680-9d43-bf35eb3341c7@f9941": {
+    "url": "db://assets/art/blackrook.png@f9941",
+    "value": {
+      "depends": [
+        "d8d44066-cc7f-4680-9d43-bf35eb3341c7@6c48a"
+      ]
+    }
+  },
+  "cb7ead32-168b-4b1b-ad8a-1c69d62044bb": {
+    "url": "db://assets/art/whitequeen.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "87f0ba52-0502-4eaf-aa07-e0d69e8e7f11@6c48a": {
+    "url": "db://assets/art/whiteknight.png@6c48a",
+    "value": {
+      "depends": [
+        "87f0ba52-0502-4eaf-aa07-e0d69e8e7f11"
+      ]
+    }
+  },
+  "a4843373-5095-4fd4-80a9-53c2386704ed@f9941": {
+    "url": "db://assets/art/whitebishop.png@f9941",
+    "value": {
+      "depends": [
+        "a4843373-5095-4fd4-80a9-53c2386704ed@6c48a"
+      ]
+    }
+  },
+  "fb34c594-cd7c-4695-b6a4-b21921e0d4c2": {
+    "url": "db://assets/art/whiterook.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "75d96564-150c-4139-abb1-92a72f436844@f9941": {
+    "url": "db://assets/art/whiteking.png@f9941",
+    "value": {
+      "depends": [
+        "75d96564-150c-4139-abb1-92a72f436844@6c48a"
+      ]
+    }
+  },
+  "9bf75124-bd2a-4487-9199-f7e5ebe0b782@6c48a": {
+    "url": "db://assets/art/whitepawn.png@6c48a",
+    "value": {
+      "depends": [
+        "9bf75124-bd2a-4487-9199-f7e5ebe0b782"
+      ]
+    }
+  },
+  "87f0ba52-0502-4eaf-aa07-e0d69e8e7f11@f9941": {
+    "url": "db://assets/art/whiteknight.png@f9941",
+    "value": {
+      "depends": [
+        "87f0ba52-0502-4eaf-aa07-e0d69e8e7f11@6c48a"
+      ]
+    }
+  },
+  "9bf75124-bd2a-4487-9199-f7e5ebe0b782@f9941": {
+    "url": "db://assets/art/whitepawn.png@f9941",
+    "value": {
+      "depends": [
+        "9bf75124-bd2a-4487-9199-f7e5ebe0b782@6c48a"
+      ]
+    }
+  },
+  "cb7ead32-168b-4b1b-ad8a-1c69d62044bb@6c48a": {
+    "url": "db://assets/art/whitequeen.png@6c48a",
+    "value": {
+      "depends": [
+        "cb7ead32-168b-4b1b-ad8a-1c69d62044bb"
+      ]
+    }
+  },
+  "fb34c594-cd7c-4695-b6a4-b21921e0d4c2@6c48a": {
+    "url": "db://assets/art/whiterook.png@6c48a",
+    "value": {
+      "depends": [
+        "fb34c594-cd7c-4695-b6a4-b21921e0d4c2"
+      ]
+    }
+  },
+  "cb7ead32-168b-4b1b-ad8a-1c69d62044bb@f9941": {
+    "url": "db://assets/art/whitequeen.png@f9941",
+    "value": {
+      "depends": [
+        "cb7ead32-168b-4b1b-ad8a-1c69d62044bb@6c48a"
+      ]
+    }
+  },
+  "fb34c594-cd7c-4695-b6a4-b21921e0d4c2@f9941": {
+    "url": "db://assets/art/whiterook.png@f9941",
+    "value": {
+      "depends": [
+        "fb34c594-cd7c-4695-b6a4-b21921e0d4c2@6c48a"
+      ]
+    }
+  },
+  "fb0ddd72-a2c4-4848-9e69-53c0c8666a44": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "f5573fc3-047a-4d59-9f6f-0766e7a9764d": {
+    "url": "db://assets/resources/test_art",
+    "value": {}
+  },
+  "df524e47-7d02-4836-8220-f70715c8545c": {
+    "url": "db://assets/resources/art/blackbishop.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "62b8a709-06a3-42fe-96a7-006a9ce41eb4": {
+    "url": "db://assets/resources/art/blackking.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "dd00786b-b3bf-4ac6-925d-84335b10f2aa": {
+    "url": "db://assets/resources/art/blackknight.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6287bc76-9830-4ff7-adc3-ddd85200bd4e": {
+    "url": "db://assets/resources/art/blackpawn.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6f3edea7-18bb-464c-8d28-0e7be955acb8": {
+    "url": "db://assets/resources/art/blackqueen.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6287bc76-9830-4ff7-adc3-ddd85200bd4e@6c48a": {
+    "url": "db://assets/resources/art/blackpawn.png@6c48a",
+    "value": {
+      "depends": [
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e"
+      ]
+    }
+  },
+  "62b8a709-06a3-42fe-96a7-006a9ce41eb4@6c48a": {
+    "url": "db://assets/resources/art/blackking.png@6c48a",
+    "value": {
+      "depends": [
+        "62b8a709-06a3-42fe-96a7-006a9ce41eb4"
+      ]
+    }
+  },
+  "dd00786b-b3bf-4ac6-925d-84335b10f2aa@6c48a": {
+    "url": "db://assets/resources/art/blackknight.png@6c48a",
+    "value": {
+      "depends": [
+        "dd00786b-b3bf-4ac6-925d-84335b10f2aa"
+      ]
+    }
+  },
+  "df524e47-7d02-4836-8220-f70715c8545c@6c48a": {
+    "url": "db://assets/resources/art/blackbishop.png@6c48a",
+    "value": {
+      "depends": [
+        "df524e47-7d02-4836-8220-f70715c8545c"
+      ]
+    }
+  },
+  "6f3edea7-18bb-464c-8d28-0e7be955acb8@6c48a": {
+    "url": "db://assets/resources/art/blackqueen.png@6c48a",
+    "value": {
+      "depends": [
+        "6f3edea7-18bb-464c-8d28-0e7be955acb8"
+      ]
+    }
+  },
+  "62b8a709-06a3-42fe-96a7-006a9ce41eb4@f9941": {
+    "url": "db://assets/resources/art/blackking.png@f9941",
+    "value": {
+      "depends": [
+        "62b8a709-06a3-42fe-96a7-006a9ce41eb4@6c48a"
+      ]
+    }
+  },
+  "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941": {
+    "url": "db://assets/resources/art/blackpawn.png@f9941",
+    "value": {
+      "depends": [
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@6c48a"
+      ]
+    }
+  },
+  "30a14925-8fbe-425c-a1ca-e9de812099a4": {
+    "url": "db://assets/resources/art/blackrook.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "2bda5c04-0af8-4307-bccd-72b6c78baf8e": {
+    "url": "db://assets/resources/art/chessboard.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "dd00786b-b3bf-4ac6-925d-84335b10f2aa@f9941": {
+    "url": "db://assets/resources/art/blackknight.png@f9941",
+    "value": {
+      "depends": [
+        "dd00786b-b3bf-4ac6-925d-84335b10f2aa@6c48a"
+      ]
+    }
+  },
+  "eee0b6af-0a7e-4f2e-9b8e-c794558e5bd9": {
+    "url": "db://assets/resources/art/whitebishop.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "df524e47-7d02-4836-8220-f70715c8545c@f9941": {
+    "url": "db://assets/resources/art/blackbishop.png@f9941",
+    "value": {
+      "depends": [
+        "df524e47-7d02-4836-8220-f70715c8545c@6c48a"
+      ]
+    }
+  },
+  "b60360d2-cccd-4615-a8f0-ccc79adb07d0": {
+    "url": "db://assets/resources/art/whiteking.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6f3edea7-18bb-464c-8d28-0e7be955acb8@f9941": {
+    "url": "db://assets/resources/art/blackqueen.png@f9941",
+    "value": {
+      "depends": [
+        "6f3edea7-18bb-464c-8d28-0e7be955acb8@6c48a"
+      ]
+    }
+  },
+  "c212bf39-f509-4678-92b1-f683b5e119d9": {
+    "url": "db://assets/resources/art/whiteknight.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "2bda5c04-0af8-4307-bccd-72b6c78baf8e@6c48a": {
+    "url": "db://assets/resources/art/chessboard.png@6c48a",
+    "value": {
+      "depends": [
+        "2bda5c04-0af8-4307-bccd-72b6c78baf8e"
+      ]
+    }
+  },
+  "30a14925-8fbe-425c-a1ca-e9de812099a4@6c48a": {
+    "url": "db://assets/resources/art/blackrook.png@6c48a",
+    "value": {
+      "depends": [
+        "30a14925-8fbe-425c-a1ca-e9de812099a4"
+      ]
+    }
+  },
+  "c212bf39-f509-4678-92b1-f683b5e119d9@6c48a": {
+    "url": "db://assets/resources/art/whiteknight.png@6c48a",
+    "value": {
+      "depends": [
+        "c212bf39-f509-4678-92b1-f683b5e119d9"
+      ]
+    }
+  },
+  "eee0b6af-0a7e-4f2e-9b8e-c794558e5bd9@6c48a": {
+    "url": "db://assets/resources/art/whitebishop.png@6c48a",
+    "value": {
+      "depends": [
+        "eee0b6af-0a7e-4f2e-9b8e-c794558e5bd9"
+      ]
+    }
+  },
+  "b60360d2-cccd-4615-a8f0-ccc79adb07d0@6c48a": {
+    "url": "db://assets/resources/art/whiteking.png@6c48a",
+    "value": {
+      "depends": [
+        "b60360d2-cccd-4615-a8f0-ccc79adb07d0"
+      ]
+    }
+  },
+  "2bda5c04-0af8-4307-bccd-72b6c78baf8e@f9941": {
+    "url": "db://assets/resources/art/chessboard.png@f9941",
+    "value": {
+      "depends": [
+        "2bda5c04-0af8-4307-bccd-72b6c78baf8e@6c48a"
+      ]
+    }
+  },
+  "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad": {
+    "url": "db://assets/resources/art/whitepawn.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "30a14925-8fbe-425c-a1ca-e9de812099a4@f9941": {
+    "url": "db://assets/resources/art/blackrook.png@f9941",
+    "value": {
+      "depends": [
+        "30a14925-8fbe-425c-a1ca-e9de812099a4@6c48a"
+      ]
+    }
+  },
+  "b89e0fd6-7faf-47e7-ac9b-3dfd00d4c2ff": {
+    "url": "db://assets/resources/art/whitequeen.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "c212bf39-f509-4678-92b1-f683b5e119d9@f9941": {
+    "url": "db://assets/resources/art/whiteknight.png@f9941",
+    "value": {
+      "depends": [
+        "c212bf39-f509-4678-92b1-f683b5e119d9@6c48a"
+      ]
+    }
+  },
+  "28336c24-bda9-41ff-9804-daaaf2375827": {
+    "url": "db://assets/resources/art/whiterook.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "eee0b6af-0a7e-4f2e-9b8e-c794558e5bd9@f9941": {
+    "url": "db://assets/resources/art/whitebishop.png@f9941",
+    "value": {
+      "depends": [
+        "eee0b6af-0a7e-4f2e-9b8e-c794558e5bd9@6c48a"
+      ]
+    }
+  },
+  "b60360d2-cccd-4615-a8f0-ccc79adb07d0@f9941": {
+    "url": "db://assets/resources/art/whiteking.png@f9941",
+    "value": {
+      "depends": [
+        "b60360d2-cccd-4615-a8f0-ccc79adb07d0@6c48a"
+      ]
+    }
+  },
+  "b89e0fd6-7faf-47e7-ac9b-3dfd00d4c2ff@6c48a": {
+    "url": "db://assets/resources/art/whitequeen.png@6c48a",
+    "value": {
+      "depends": [
+        "b89e0fd6-7faf-47e7-ac9b-3dfd00d4c2ff"
+      ]
+    }
+  },
+  "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@6c48a": {
+    "url": "db://assets/resources/art/whitepawn.png@6c48a",
+    "value": {
+      "depends": [
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad"
+      ]
+    }
+  },
+  "28336c24-bda9-41ff-9804-daaaf2375827@6c48a": {
+    "url": "db://assets/resources/art/whiterook.png@6c48a",
+    "value": {
+      "depends": [
+        "28336c24-bda9-41ff-9804-daaaf2375827"
+      ]
+    }
+  },
+  "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941": {
+    "url": "db://assets/resources/art/whitepawn.png@f9941",
+    "value": {
+      "depends": [
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@6c48a"
+      ]
+    }
+  },
+  "b89e0fd6-7faf-47e7-ac9b-3dfd00d4c2ff@f9941": {
+    "url": "db://assets/resources/art/whitequeen.png@f9941",
+    "value": {
+      "depends": [
+        "b89e0fd6-7faf-47e7-ac9b-3dfd00d4c2ff@6c48a"
+      ]
+    }
+  },
+  "28336c24-bda9-41ff-9804-daaaf2375827@f9941": {
+    "url": "db://assets/resources/art/whiterook.png@f9941",
+    "value": {
+      "depends": [
+        "28336c24-bda9-41ff-9804-daaaf2375827@6c48a"
+      ]
+    }
+  },
+  "72dd141c-6895-4fda-8089-77aad862579d": {
+    "url": "db://assets/art/whitepawn.png",
+    "value": {}
+  },
+  "72dd141c-6895-4fda-8089-77aad862579d@6c48a": {
+    "url": "db://assets/art/whitepawn.png@6c48a",
+    "value": {
+      "depends": [
+        "72dd141c-6895-4fda-8089-77aad862579d"
+      ]
+    }
+  },
+  "72dd141c-6895-4fda-8089-77aad862579d@f9941": {
+    "url": "db://assets/art/whitepawn.png@f9941",
+    "value": {
+      "depends": [
+        "72dd141c-6895-4fda-8089-77aad862579d@6c48a"
+      ]
+    }
+  },
+  "b338e32c-092e-4d6f-b8dd-45f992f9a661": {
+    "url": "db://assets/art/whitepawn.png",
+    "value": {}
+  },
+  "b338e32c-092e-4d6f-b8dd-45f992f9a661@6c48a": {
+    "url": "db://assets/art/whitepawn.png@6c48a",
+    "value": {
+      "depends": [
+        "b338e32c-092e-4d6f-b8dd-45f992f9a661"
+      ]
+    }
+  },
+  "b338e32c-092e-4d6f-b8dd-45f992f9a661@f9941": {
+    "url": "db://assets/art/whitepawn.png@f9941",
+    "value": {
+      "depends": [
+        "b338e32c-092e-4d6f-b8dd-45f992f9a661@6c48a"
+      ]
+    }
+  },
+  "983bc600-2044-4e1e-9ded-51314250ead6": {
+    "url": "db://assets/art/blackPromoting.png",
+    "value": {}
+  },
+  "84f3a2e6-efed-4a5c-bd41-cba709f678fa": {
+    "url": "db://assets/art/whitePromoting.png",
+    "value": {}
+  },
+  "84f3a2e6-efed-4a5c-bd41-cba709f678fa@6c48a": {
+    "url": "db://assets/art/whitePromoting.png@6c48a",
+    "value": {
+      "depends": [
+        "84f3a2e6-efed-4a5c-bd41-cba709f678fa"
+      ]
+    }
+  },
+  "983bc600-2044-4e1e-9ded-51314250ead6@6c48a": {
+    "url": "db://assets/art/blackPromoting.png@6c48a",
+    "value": {
+      "depends": [
+        "983bc600-2044-4e1e-9ded-51314250ead6"
+      ]
+    }
+  },
+  "84f3a2e6-efed-4a5c-bd41-cba709f678fa@f9941": {
+    "url": "db://assets/art/whitePromoting.png@f9941",
+    "value": {
+      "depends": [
+        "84f3a2e6-efed-4a5c-bd41-cba709f678fa@6c48a"
+      ]
+    }
+  },
+  "983bc600-2044-4e1e-9ded-51314250ead6@f9941": {
+    "url": "db://assets/art/blackPromoting.png@f9941",
+    "value": {
+      "depends": [
+        "983bc600-2044-4e1e-9ded-51314250ead6@6c48a"
+      ]
+    }
+  },
+  "7211af2c-8d2e-4194-898a-d1f6e084420c": {
+    "url": "db://assets/scripts/TimerController.ts",
+    "value": {}
+  },
+  "577b6a0c-d088-4c6d-968d-bb2cce901af7": {
+    "url": "db://assets/art/chessboardFlipped.png",
+    "value": {}
+  },
+  "577b6a0c-d088-4c6d-968d-bb2cce901af7@6c48a": {
+    "url": "db://assets/art/chessboardFlipped.png@6c48a",
+    "value": {
+      "depends": [
+        "577b6a0c-d088-4c6d-968d-bb2cce901af7"
+      ]
+    }
+  },
+  "577b6a0c-d088-4c6d-968d-bb2cce901af7@f9941": {
+    "url": "db://assets/art/chessboardFlipped.png@f9941",
+    "value": {
+      "depends": [
+        "577b6a0c-d088-4c6d-968d-bb2cce901af7@6c48a"
+      ]
+    }
+  },
+  "7477ef99-b2a5-42ad-8f08-a6897021df40": {
+    "url": "db://assets/resources/art",
+    "value": {}
+  },
+  "e426bb2d-b6a5-49bd-97fb-206810f6f826": {
+    "url": "db://assets/resources/art/chessboardFlipped.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e426bb2d-b6a5-49bd-97fb-206810f6f826@6c48a": {
+    "url": "db://assets/resources/art/chessboardFlipped.png@6c48a",
+    "value": {
+      "depends": [
+        "e426bb2d-b6a5-49bd-97fb-206810f6f826"
+      ]
+    }
+  },
+  "e426bb2d-b6a5-49bd-97fb-206810f6f826@f9941": {
+    "url": "db://assets/resources/art/chessboardFlipped.png@f9941",
+    "value": {
+      "depends": [
+        "e426bb2d-b6a5-49bd-97fb-206810f6f826@6c48a"
+      ]
+    }
+  },
+  "aa876379-2f8b-4abd-9bee-dd3f03cc6c9e": {
+    "url": "db://assets/scripts/test.ts",
+    "value": {}
+  },
+  "1c86f0ed-d809-4ff1-9490-f38cf2bdcfd5": {
+    "url": "db://assets/scripts/BoardSetup.ts",
+    "value": {}
+  },
+  "71964ef6-3d4a-4290-80d7-67e93c4ee632": {
+    "url": "db://assets/resources/art/blackPromoting.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e1fa1df0-0173-4afb-a961-969c51539a8a": {
+    "url": "db://assets/resources/art/whitePromoting.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "71964ef6-3d4a-4290-80d7-67e93c4ee632@6c48a": {
+    "url": "db://assets/resources/art/blackPromoting.png@6c48a",
+    "value": {
+      "depends": [
+        "71964ef6-3d4a-4290-80d7-67e93c4ee632"
+      ]
+    }
+  },
+  "e1fa1df0-0173-4afb-a961-969c51539a8a@6c48a": {
+    "url": "db://assets/resources/art/whitePromoting.png@6c48a",
+    "value": {
+      "depends": [
+        "e1fa1df0-0173-4afb-a961-969c51539a8a"
+      ]
+    }
+  },
+  "71964ef6-3d4a-4290-80d7-67e93c4ee632@f9941": {
+    "url": "db://assets/resources/art/blackPromoting.png@f9941",
+    "value": {
+      "depends": [
+        "71964ef6-3d4a-4290-80d7-67e93c4ee632@6c48a"
+      ]
+    }
+  },
+  "e1fa1df0-0173-4afb-a961-969c51539a8a@f9941": {
+    "url": "db://assets/resources/art/whitePromoting.png@f9941",
+    "value": {
+      "depends": [
+        "e1fa1df0-0173-4afb-a961-969c51539a8a@6c48a"
+      ]
+    }
+  },
+  "47e55492-a2c0-4ff0-aecd-6094a67cd8b3": {
+    "url": "db://assets/scripts/PawnPromotion.ts",
+    "value": {}
+  },
+  "f3749b25-3593-49a6-8aa1-4eaea117e7df": {
+    "url": "db://assets/scripts/Temp.ts",
+    "value": {}
+  },
+  "d9b70650-7aed-4307-ab9b-151ffec69ae5": {
+    "url": "db://assets/scenes/main1.scene",
+    "value": {}
+  },
+  "36e7c5ab-7fde-4c78-9d74-a7cffdb3505f": {
+    "url": "db://assets/scripts/Temp.ts",
+    "value": {}
+  },
+  "a4586cee-bcfa-4a65-bbdf-3a401c39b678": {
+    "url": "db://assets/scripts/Temp2.ts",
+    "value": {}
+  },
+  "8fce31c9-b9f9-47de-aad3-ebd495c52e80": {
+    "url": "db://assets/scripts/test.ts",
+    "value": {}
+  },
+  "fed0207a-0abc-4f85-b2ff-af946dd8c159": {
+    "url": "db://assets/scripts/BoardOrientation.ts",
+    "value": {}
+  },
+  "7c2e6538-84c8-4849-a63c-d91537cac772": {
+    "url": "db://assets/scripts/TimerOrientation.ts",
+    "value": {}
+  },
+  "ee547d44-1c20-40c3-b0cb-7719304fa3f6": {
+    "url": "db://assets/scripts/test.ts",
+    "value": {}
+  },
+  "2d2b1881-17fc-4e77-9625-3ecce68b125c": {
+    "url": "db://assets/scripts/GameOver.ts",
+    "value": {}
+  },
+  "c05383fb-b7a4-4523-9b7d-d56c8bcc4316": {
+    "url": "db://assets/scripts/test2.ts",
+    "value": {}
+  },
+  "c25896a9-1fb7-4504-b14a-de11f125abb5": {
+    "url": "db://assets/scenes/main-001.scene",
+    "value": {}
+  },
+  "6c03eb7b-b135-40e8-beba-1fbbc2162e33": {
+    "url": "db://assets/scenes/main1.scene",
+    "value": {}
+  },
+  "5f211ad3-f879-4d04-85cd-5fcabfdf4c58": {
+    "url": "db://assets/scripts/Mobile.ts",
+    "value": {}
+  },
+  "759a7b55-e3de-4152-b2f7-5a1d6a9dc306": {
+    "url": "db://assets/scripts/Bot.ts",
+    "value": {}
+  },
+  "2baeaced-7705-46e2-907f-944cf05853d7": {
+    "url": "db://assets/scenes/PvWB.scene",
+    "value": {
+      "depends": [
+        "2baeaced-7705-46e2-907f-944cf05853d7",
+        "2bda5c04-0af8-4307-bccd-72b6c78baf8e@f9941",
+        "28336c24-bda9-41ff-9804-daaaf2375827@f9941",
+        "c212bf39-f509-4678-92b1-f683b5e119d9@f9941",
+        "eee0b6af-0a7e-4f2e-9b8e-c794558e5bd9@f9941",
+        "b89e0fd6-7faf-47e7-ac9b-3dfd00d4c2ff@f9941",
+        "b60360d2-cccd-4615-a8f0-ccc79adb07d0@f9941",
+        "eee0b6af-0a7e-4f2e-9b8e-c794558e5bd9@f9941",
+        "c212bf39-f509-4678-92b1-f683b5e119d9@f9941",
+        "28336c24-bda9-41ff-9804-daaaf2375827@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "30a14925-8fbe-425c-a1ca-e9de812099a4@f9941",
+        "dd00786b-b3bf-4ac6-925d-84335b10f2aa@f9941",
+        "df524e47-7d02-4836-8220-f70715c8545c@f9941",
+        "6f3edea7-18bb-464c-8d28-0e7be955acb8@f9941",
+        "62b8a709-06a3-42fe-96a7-006a9ce41eb4@f9941",
+        "df524e47-7d02-4836-8220-f70715c8545c@f9941",
+        "dd00786b-b3bf-4ac6-925d-84335b10f2aa@f9941",
+        "30a14925-8fbe-425c-a1ca-e9de812099a4@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "71964ef6-3d4a-4290-80d7-67e93c4ee632@f9941"
+      ]
+    }
+  },
+  "6e00f5a7-ead0-4b12-9e82-39cc8aacc61a": {
+    "url": "db://assets/scenes/Menu.scene",
+    "value": {
+      "depends": [
+        "6e00f5a7-ead0-4b12-9e82-39cc8aacc61a",
+        "88785b63-c1f0-44d2-935f-9c6096e00f7a@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
+      ]
+    }
+  },
+  "5f71327e-a052-4655-8f33-9f6217327f83": {
+    "url": "db://assets/scripts/OpponentRedirect.ts",
+    "value": {}
+  },
+  "19e1c92a-854a-4877-a6cc-cd33a174eb52": {
+    "url": "db://assets/scenes/Color.scene",
+    "value": {
+      "depends": [
+        "19e1c92a-854a-4877-a6cc-cd33a174eb52",
+        "88785b63-c1f0-44d2-935f-9c6096e00f7a@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
+      ]
+    }
+  },
+  "5be34a36-9bfa-407b-9f4f-22b5c5b3ee1d": {
+    "url": "db://assets/scripts/ChooseColor.ts",
+    "value": {}
+  },
+  "638d94ef-715c-440e-9608-56a4625a65dd": {
+    "url": "db://assets/scripts/BotPieceController.ts",
+    "value": {}
+  },
+  "346e93b1-ee37-41fa-88e2-5a86b72f86dd": {
+    "url": "db://assets/scenes/PvBB.scene",
+    "value": {
+      "depends": [
+        "346e93b1-ee37-41fa-88e2-5a86b72f86dd",
+        "2bda5c04-0af8-4307-bccd-72b6c78baf8e@f9941",
+        "28336c24-bda9-41ff-9804-daaaf2375827@f9941",
+        "c212bf39-f509-4678-92b1-f683b5e119d9@f9941",
+        "eee0b6af-0a7e-4f2e-9b8e-c794558e5bd9@f9941",
+        "b89e0fd6-7faf-47e7-ac9b-3dfd00d4c2ff@f9941",
+        "b60360d2-cccd-4615-a8f0-ccc79adb07d0@f9941",
+        "eee0b6af-0a7e-4f2e-9b8e-c794558e5bd9@f9941",
+        "c212bf39-f509-4678-92b1-f683b5e119d9@f9941",
+        "28336c24-bda9-41ff-9804-daaaf2375827@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "b0f6e784-db0e-4a3d-83c8-c19ab0bca3ad@f9941",
+        "30a14925-8fbe-425c-a1ca-e9de812099a4@f9941",
+        "dd00786b-b3bf-4ac6-925d-84335b10f2aa@f9941",
+        "df524e47-7d02-4836-8220-f70715c8545c@f9941",
+        "6f3edea7-18bb-464c-8d28-0e7be955acb8@f9941",
+        "62b8a709-06a3-42fe-96a7-006a9ce41eb4@f9941",
+        "df524e47-7d02-4836-8220-f70715c8545c@f9941",
+        "dd00786b-b3bf-4ac6-925d-84335b10f2aa@f9941",
+        "30a14925-8fbe-425c-a1ca-e9de812099a4@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "6287bc76-9830-4ff7-adc3-ddd85200bd4e@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "e1fa1df0-0173-4afb-a961-969c51539a8a@f9941"
+      ]
+    }
+  },
+  "88785b63-c1f0-44d2-935f-9c6096e00f7a": {
+    "url": "db://assets/resources/art/background.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "88785b63-c1f0-44d2-935f-9c6096e00f7a@6c48a": {
+    "url": "db://assets/resources/art/background.png@6c48a",
+    "value": {
+      "depends": [
+        "88785b63-c1f0-44d2-935f-9c6096e00f7a"
+      ]
+    }
+  },
+  "88785b63-c1f0-44d2-935f-9c6096e00f7a@f9941": {
+    "url": "db://assets/resources/art/background.png@f9941",
+    "value": {
+      "depends": [
+        "88785b63-c1f0-44d2-935f-9c6096e00f7a@6c48a"
+      ]
+    }
+  },
+  "efe71f4a-90f2-41bf-a63d-70d93cf87912": {
+    "url": "db://assets/scripts/BotTimerController.ts",
+    "value": {}
+  },
+  "91ba4040-b312-4021-837f-79ef09af532d": {
+    "url": "db://assets/scripts/BotTimerController.ts",
+    "value": {}
+  },
+  "080ab6eb-f628-4e07-8fc3-3d53cdddd072": {
+    "url": "db://assets/scripts/ChangeScreen.ts",
+    "value": {}
+  }
+}
